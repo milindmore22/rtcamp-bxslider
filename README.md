@@ -1,4 +1,4 @@
 rtcamp-bxslider
 ===============
 
-Wordpress plugin for repsonsive slideshow usesin bxslider 
+Wordpress plugin for repsonsive slideshow using bxslider 
