@@ -7,6 +7,9 @@ rtcamp-bxslider is a wordpress plugin created as assignment.
   - You can reorder the slides
   - intiate with shortcode [rtcamp-bxslider]
 
+Demo
+-----
+[Demo Link]
 
 Third party libraries
 --------------------
@@ -41,3 +44,4 @@ GPLV2
 
 [BXSlider]:http://bxslider.com/
 [Steven Wanderski]:http://stevenwanderski.com/
+[Demo Link]:http://rtcampassignment.webege.com/rtcamp-bxslider-demo/
